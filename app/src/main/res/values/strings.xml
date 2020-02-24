@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="error_internet_title">No Internet Error</string>
+    <string name="error_internet_message">Please turn on WIFI or MOBILE network.</string>
+    <string name="error_server_title">Server Error</string>
+    <string name="error_server_message">Something went wrong. Please try again.</string>
+    <string name="kotlin_news">Kotlin News</string>
+    <string name="no_article_desc_title">No article description</string>
+    <string name="no_article_desc_message">This article has no description property. Would you like to open its original link?</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+</resources>
